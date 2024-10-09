@@ -34,6 +34,6 @@ The code can be improved by adding new functions for different types of calculat
         return "Invalid input. Please enter valid numbers."
 
 # Implementation:
-average = calculate_average()
+    average = calculate_average()
 
-print(f"The average is: {average}")
+    print(f"The average is: {average}")
