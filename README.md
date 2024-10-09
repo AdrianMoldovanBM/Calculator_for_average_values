@@ -34,4 +34,5 @@ def calculate_average():
 
 # Implementation:
 average = calculate_average()
+
 print(f"The average is: {average}")
