@@ -5,7 +5,7 @@ The code was written using Google Colab and allows users to input both integers 
 
 While tools like Excel can perform this task seamlessly, the focus here is on the underlying code that powers the graphical user interface (GUI). 
 It’s the process of building and refining this code that offers valuable insights into programming logic and user interaction.
-The code can be improved by adding new functions for different types of calculations, like median values, mode, standard deviation etc.
+The code can be expanded by adding new functions for different types of calculations, like median values, mode, standard deviation etc.
 
 # Code:
     def calculate_average():    
