@@ -6,8 +6,7 @@ While tools like Excel can perform this task seamlessly, the focus here is on th
 It’s the process of building and refining this code that offers valuable insights into programming logic and user interaction.
 The code can be improved by adding new functions for different types of calculations, like median values, mode, standard deviation etc.
 
-
-def calculate_average():    
+    def calculate_average():    
     
     try:
         # Prompting the user to enter numbers separated by spaces
