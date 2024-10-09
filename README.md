@@ -6,7 +6,7 @@ While tools like Excel can perform this task seamlessly, the focus here is on th
 It’s the process of building and refining this code that offers valuable insights into programming logic and user interaction.
 The code can be improved by adding new functions for different types of calculations, like median values, mode, standard deviation etc.
 
-# Code
+# Code:
     def calculate_average():    
     
     try:
@@ -34,7 +34,7 @@ The code can be improved by adding new functions for different types of calculat
     except ValueError:
         return "Invalid input. Please enter valid numbers."
 
-# Implementation:
+# Execution:
     average = calculate_average()
 
     print(f"The average is: {average}")
