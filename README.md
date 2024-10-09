@@ -7,6 +7,7 @@ While tools like Excel can perform this task seamlessly, the focus here is on th
 It’s the process of building and refining this code that offers valuable insights into programming logic and user interaction.
 
 def calculate_average():
+    
     try:
         # Prompting the user to enter numbers separated by spaces
         user_input = input("Enter numbers separated by spaces: ")
