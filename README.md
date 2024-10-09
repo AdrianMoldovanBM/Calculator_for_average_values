@@ -1,4 +1,4 @@
-# Python_calculator_for_average_values
+# Python calculator for average values
 Having fun with Python, and using functions in order to create a calculator for computing average values.
 Code was written using Google Colab.
 The program allows users to input both integers and decimal numbers, and it automatically computes the average.
