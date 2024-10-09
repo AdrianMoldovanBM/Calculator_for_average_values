@@ -7,7 +7,6 @@ It’s the process of building and refining this code that offers valuable insig
 The code can be improved by adding new functions for different types of calculations, like median values, mode, standard deviation etc.
 
 def calculate_average():
-    
     try:
         # Prompting the user to enter numbers separated by spaces
         user_input = input("Enter numbers separated by spaces: ")
